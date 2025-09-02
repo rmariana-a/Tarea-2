@@ -3,7 +3,7 @@ Investigación sobre Computación Cuántica, Neuromórfica, Biológica, Heterog�
 
 ---
 
-## PRIMER PUNTO – Computación Cuántica
+## 1 – ***COMPUTACIÓN CUANTICA***
 
 La **computación cuántica** es un paradigma que utiliza principios de la mecánica cuántica para procesar información. A diferencia de la computación clásica que emplea bits (0 o 1), la cuántica usa **qubits**, que pueden estar en una superposición de estados. Esta propiedad permite realizar cálculos paralelos y resolver ciertos problemas de forma exponencialmente más rápida que con computadoras tradicionales.
 
@@ -37,11 +37,10 @@ Un computador cuántico moderno está compuesto por:
 - **Interferencia cuántica**: combinación de probabilidades que refuerzan o cancelan resultados.  
 - **Medición probabilística**: los resultados se obtienen con ciertas probabilidades, no certezas absolutas.
 
-![Computación cuántica](https://upload.wikimedia.org/wikipedia/commons/6/6b/QubitBlochSphere.png)
 
 ---
 
-## SEGUNDO PUNTO – Computación Neuromórfica
+## 2 – ***COMPUTACIÓN NEUROMORFICA***
 
 La **computación neuromórfica** busca imitar el funcionamiento del cerebro humano mediante hardware especializado. Se basa en **redes neuronales de picos (SNN, Spiking Neural Networks)**, donde las neuronas disparan impulsos eléctricos solo cuando alcanzan un umbral, lo que reduce consumo energético.
 
@@ -65,11 +64,11 @@ Ejemplos:
 - Dificultades en programar algoritmos adecuados.  
 - Menor flexibilidad que arquitecturas clásicas.
 
-![Computación neuromórfica](https://upload.wikimedia.org/wikipedia/commons/4/4f/Neuromorphic_Chip.png)
+
 
 ---
 
-## TERCER PUNTO – Computación Biológica
+## 3 – ***COMPUTACIÓN BIOLOGICA***
 
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
 
@@ -92,11 +91,11 @@ La **computación biológica** utiliza organismos vivos o biomoléculas como ADN
 - Dificultades para la escalabilidad industrial.  
 - Retos éticos en el caso de organoides y sistemas vivos.
 
-![Computación biológica](https://upload.wikimedia.org/wikipedia/commons/7/7c/DNA_double_helix_horizontal.png)
+
 
 ---
 
-## CUARTO PUNTO – Computación Heterogénea
+## 4 – ***COMPUTACIÓN HETEROGÉNEA***
 
 La **computación heterogénea** combina diferentes tipos de procesadores (CPU, GPU, FPGA, ASIC) para aprovechar sus ventajas en tareas específicas.
 
@@ -117,11 +116,11 @@ La **computación heterogénea** combina diferentes tipos de procesadores (CPU, 
 
 Ejemplo: combinación CPU+GPU en supercomputadora Summit (IBM + NVIDIA).
 
-![Computación heterogénea](https://upload.wikimedia.org/wikipedia/commons/0/05/GPU_vs_CPU.png)
+
 
 ---
 
-## QUINTO PUNTO – Computación de Borde (Edge Computing)
+## 5 – ***COMPUTACIÓN DE BORDE (Edge Computing)***
 
 La **computación de borde** consiste en llevar el procesamiento de datos más cerca del lugar donde se generan, en lugar de enviarlos siempre a la nube. Esto reduce la latencia y mejora la eficiencia.
 
@@ -146,7 +145,7 @@ La **computación de borde** consiste en llevar el procesamiento de datos más c
 
 Ejemplo: sistemas de conducción autónoma que procesan datos en tiempo real para tomar decisiones inmediatas.
 
-![Edge computing](https://upload.wikimedia.org/wikipedia/commons/3/3e/Edge_computing_layers.png)
+
 
 ---
 
