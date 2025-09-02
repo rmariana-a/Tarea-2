@@ -7,6 +7,9 @@ Investigación sobre Computación Cuántica, Neuromórfica, Biológica, Heterog�
 
 La **computación cuántica** es un paradigma que utiliza principios de la mecánica cuántica para procesar información. A diferencia de la computación clásica que emplea bits (0 o 1), la cuántica usa **qubits**, que pueden estar en una superposición de estados. Esta propiedad permite realizar cálculos paralelos y resolver ciertos problemas de forma exponencialmente más rápida que con computadoras tradicionales.
 
+![Computación Cuántica](./imágenes/Computacióncuantica.png)
+
+
 ### Arquitectura de un computador cuántico
 Un computador cuántico moderno está compuesto por:
 - **Qubits**: unidades de información cuántica (ej. iones atrapados, superconductores, fotones).  
