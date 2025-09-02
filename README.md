@@ -48,6 +48,8 @@ Un computador cuántico moderno está compuesto por:
 
 La **computación neuromórfica** busca imitar el funcionamiento del cerebro humano mediante hardware especializado. Se basa en **redes neuronales de picos (SNN, Spiking Neural Networks)**, donde las neuronas disparan impulsos eléctricos solo cuando alcanzan un umbral, lo que reduce consumo energético.
 
+![Computación Cuántica](COMPUTACIONNEUROMORFICA.JPG)
+
 ### Arquitectura y funcionamiento
 - **Neuronas artificiales**: procesan impulsos eléctricos simulando neuronas biológicas.  
 - **Sinapsis artificiales**: conexiones entre neuronas con pesos que determinan la fuerza de transmisión.  
