@@ -158,6 +158,8 @@ Ejemplo: combinación CPU+GPU en supercomputadora Summit (IBM + NVIDIA).
 
 La **computación de borde** consiste en llevar el procesamiento de datos más cerca del lugar donde se generan, en lugar de enviarlos siempre a la nube. Esto reduce la latencia y mejora la eficiencia.
 
+![Computación neuromorfica](computacionedge.jpg)
+
 ### Funcionamiento
 - Los datos se procesan en dispositivos locales (routers, gateways, sensores inteligentes).  
 - Solo la información relevante o procesada se envía a la nube.  
