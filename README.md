@@ -93,7 +93,7 @@ Ejemplos:
 ## 3 – ***COMPUTACIÓN BIOLOGICA***
 
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
-biologiacomputacional.JPG
+
 
 ![Computación biologica](biologiacomputacional.JPG)
 
