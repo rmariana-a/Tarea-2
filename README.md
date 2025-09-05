@@ -127,8 +127,9 @@ biologiacomputacional.JPG
 ## 4 – ***COMPUTACIÓN HETEROGÉNEA***
 
 La **computación heterogénea** combina diferentes tipos de procesadores (CPU, GPU, FPGA, ASIC) para aprovechar sus ventajas en tareas específicas.
-![Computación Cuántica](Computación heterogenea.jpg)
 
+![Computación neuromorfica](Computacionheterogenea.jpg)
+Computacionheterogenea.jpg
 ### Historia
 1️⃣9️⃣7️⃣0️⃣s–1️⃣9️⃣8️⃣0️⃣s – Surgen coprocesadores matemáticos y DSPs.
 1️⃣9️⃣9️⃣0️⃣s – GPUs comienzan a usarse para simulaciones no gráficas.
