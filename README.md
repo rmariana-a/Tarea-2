@@ -95,7 +95,7 @@ Ejemplos:
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
 biologiacomputacional.JPG
 
-![Computación neuromorfica](biologiacomputacional.JPG)
+![Computación biologica](biologiacomputacional.JPG)
 
 ### Historia
 1️⃣9️⃣4️⃣0️⃣–1️⃣9️⃣6️⃣0️⃣ – Norbert Wiener desarrolla la cibernética y abre el camino.
@@ -128,7 +128,7 @@ biologiacomputacional.JPG
 
 La **computación heterogénea** combina diferentes tipos de procesadores (CPU, GPU, FPGA, ASIC) para aprovechar sus ventajas en tareas específicas.
 
-![Computación neuromorfica](Computacionheterogenea.jpg)
+![Computación heterogenea](Computacionheterogenea.jpg)
 Computacionheterogenea.jpg
 ### Historia
 1️⃣9️⃣7️⃣0️⃣s–1️⃣9️⃣8️⃣0️⃣s – Surgen coprocesadores matemáticos y DSPs.
@@ -158,7 +158,7 @@ Ejemplo: combinación CPU+GPU en supercomputadora Summit (IBM + NVIDIA).
 
 La **computación de borde** consiste en llevar el procesamiento de datos más cerca del lugar donde se generan, en lugar de enviarlos siempre a la nube. Esto reduce la latencia y mejora la eficiencia.
 
-![Computación neuromorfica](computacionedge.jpg)
+![Computación de borde](computacionedge.jpg)
 
 ### Funcionamiento
 - Los datos se procesan en dispositivos locales (routers, gateways, sensores inteligentes).  
