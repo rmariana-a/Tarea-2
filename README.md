@@ -20,8 +20,15 @@ Un computador cuántico moderno está compuesto por:
 - **Sistema de refrigeración**: como los criostatos de dilución, que enfrían los qubits superconductores a temperaturas cercanas al cero absoluto.
 
 ### Historia
-- Década de 1980: Richard Feynman y David Deutsch plantean la idea de un computador cuántico.  
-- Década de 1990: Peter Shor desarrolla un algoritmo para factorización cuántica que demuestra la ventaja sobre lo clásico.  
+1️⃣9️⃣8️⃣1️⃣ – Richard Feynman plantea la idea de simular sistemas cuánticos con computadores cuánticos.
+1️⃣9️⃣8️⃣5️⃣ – David Deutsch formula el concepto de computador cuántico universal.
+1️⃣9️⃣9️⃣4️⃣ – Peter Shor diseña un algoritmo de factorización con ventaja exponencial.
+1️⃣9️⃣9️⃣6️⃣ – Lov Grover propone un algoritmo de búsqueda con ventaja cuadrática.
+2️⃣0️⃣0️⃣1️⃣ – IBM y Stanford ejecutan el algoritmo de Shor con 7 qubits NMR.
+2️⃣0️⃣0️⃣7️⃣ – D-Wave lanza los primeros sistemas de quantum annealing.
+2️⃣0️⃣1️⃣6️⃣ – IBM ofrece acceso en la nube a procesadores cuánticos (IBM Q).
+2️⃣0️⃣1️⃣9️⃣ – Google anuncia “supremacía cuántica” con Sycamore de 53 qubits.
+2️⃣0️⃣2️⃣0️⃣ – Avances en superconductores, iones atrapados y qubits topológicos.  
 - Actualidad: empresas como IBM, Google y D-Wave han desarrollado procesadores cuánticos funcionales.
 
 ### Ventajas
@@ -59,6 +66,15 @@ La **computación neuromórfica** busca imitar el funcionamiento del cerebro hum
 Ejemplos:
 - **IBM TrueNorth**: chip con un millón de neuronas y 256 millones de sinapsis.  
 - **Intel Loihi**: procesador que integra aprendizaje en tiempo real con consumo energético ultrabajo.
+- 
+### Historia
+1️⃣9️⃣4️⃣3️⃣ – McCulloch y Pitts proponen el modelo matemático de neurona artificial.
+1️⃣9️⃣8️⃣0️⃣ – Carver Mead acuña el término neuromorphic computing.
+1️⃣9️⃣9️⃣0️⃣ – Se desarrollan sensores neuromórficos iniciales.
+2️⃣0️⃣0️⃣0️⃣ – IBM lanza el proyecto SyNAPSE.
+2️⃣0️⃣1️⃣4️⃣ – IBM presenta TrueNorth con 1 millón de neuronas.
+2️⃣0️⃣1️⃣7️⃣ – Intel lanza Loihi, chip neuromórfico con aprendizaje en chip.
+2️⃣0️⃣2️⃣1️⃣ – Intel anuncia Loihi 2, con más escalabilidad y eficiencia.
 
 ### Ventajas
 - Consumo energético muy bajo.  
@@ -78,9 +94,15 @@ Ejemplos:
 
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
 
+![Computación Cuántica](COMPUTACIONNEUROMORFICA.JPG)
+
 ### Historia
-- 1994: Leonard Adleman resolvió un problema matemático con moléculas de ADN, marcando el inicio del campo.  
-- Investigaciones actuales: uso de bacterias, enzimas y organoides cerebrales para tareas de cómputo.  
+1️⃣9️⃣4️⃣0️⃣–1️⃣9️⃣6️⃣0️⃣ – Norbert Wiener desarrolla la cibernética y abre el camino.
+1️⃣9️⃣9️⃣4️⃣ – Leonard Adleman resuelve un problema matemático con ADN.
+2️⃣0️⃣0️⃣0️⃣s – Surgen puertas lógicas y circuitos sintéticos en células.
+2️⃣0️⃣1️⃣2️⃣ – Harvard almacena un libro en ADN.
+2️⃣0️⃣1️⃣6️⃣ – Se guardan 200 MB de datos en moléculas de ADN.
+2️⃣0️⃣2️⃣0️⃣s – Avances en archivado de datos y biocomputación intracelular.
 
 ### Tipos de ordenadores biológicos
 - **Computación con ADN**: cadenas de ADN que codifican información y realizan operaciones lógicas.  
@@ -106,9 +128,12 @@ La **computación biológica** utiliza organismos vivos o biomoléculas como ADN
 La **computación heterogénea** combina diferentes tipos de procesadores (CPU, GPU, FPGA, ASIC) para aprovechar sus ventajas en tareas específicas.
 
 ### Historia
-- Década de 2000: auge de GPUs como coprocesadores para gráficos y cálculo paralelo.  
-- Década de 2010: incorporación de FPGAs y ASICs en centros de datos e inteligencia artificial.  
-- Actualidad: arquitecturas híbridas en la mayoría de supercomputadoras.
+1️⃣9️⃣7️⃣0️⃣s–1️⃣9️⃣8️⃣0️⃣s – Surgen coprocesadores matemáticos y DSPs.
+1️⃣9️⃣9️⃣0️⃣s – GPUs comienzan a usarse para simulaciones no gráficas.
+2️⃣0️⃣0️⃣1️⃣ – NVIDIA lanza CUDA, facilitando GPGPU.
+2️⃣0️⃣0️⃣0️⃣s – Expansión de FPGAs en telecomunicaciones e industria.
+2️⃣0️⃣1️⃣0️⃣s – Google crea TPU, ARM desarrolla big.LITTLE.
+2️⃣0️⃣2️⃣0️⃣s – Centros de datos combinan CPU+GPU+NPU para IA y HPC.
 
 ### Ventajas
 - Uso eficiente de recursos: cada tarea corre en el procesador más adecuado.  
@@ -136,8 +161,12 @@ La **computación de borde** consiste en llevar el procesamiento de datos más c
 - Se aplica en IoT, vehículos autónomos y sistemas de vigilancia.
 
 ### Historia
-- Surgió con la masificación del **Internet de las Cosas (IoT)**.  
-- Grandes empresas (Amazon, Microsoft, Google) han desarrollado plataformas edge.  
+1️⃣9️⃣9️⃣0️⃣– Modelo cliente-servidor, sin edge formal.
+2️⃣0️⃣0️⃣0️⃣– Surgen CDN para acelerar contenido.
+2️⃣0️⃣1️⃣2️⃣– Cisco introduce Fog Computing.
+2️⃣0️⃣1️⃣5️⃣–2️⃣0️⃣1️⃣8️⃣ – Auge de IoT evidencia límites de la nube.
+2️⃣0️⃣1️⃣8️⃣–2️⃣0️⃣2️⃣0️⃣ – 5G impulsa aplicaciones edge (vehículos autónomos, AR/VR).
+2️⃣0️⃣2️⃣0️⃣– AWS, Azure y Google Cloud despliegan cloud-edge.  
 
 ### Ventajas
 - Baja latencia en aplicaciones críticas.  
