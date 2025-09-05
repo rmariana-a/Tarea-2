@@ -55,7 +55,7 @@ Un computador cuántico moderno está compuesto por:
 
 La **computación neuromórfica** busca imitar el funcionamiento del cerebro humano mediante hardware especializado. Se basa en **redes neuronales de picos (SNN, Spiking Neural Networks)**, donde las neuronas disparan impulsos eléctricos solo cuando alcanzan un umbral, lo que reduce consumo energético.
 
-![Computación Cuántica](COMPUTACIONNEUROMORFICA.JPG)
+![Computación neuromorfica](COMPUTACIONNEUROMORFICA.JPG)
 
 ### Arquitectura y funcionamiento
 - **Neuronas artificiales**: procesan impulsos eléctricos simulando neuronas biológicas.  
@@ -94,7 +94,7 @@ Ejemplos:
 
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
 
-![Computación Cuántica](biologia computacional.JPG)
+![Computación biologica](biologia computacional.JPG)
 
 ### Historia
 1️⃣9️⃣4️⃣0️⃣–1️⃣9️⃣6️⃣0️⃣ – Norbert Wiener desarrolla la cibernética y abre el camino.
