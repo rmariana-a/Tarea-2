@@ -93,9 +93,10 @@ Ejemplos:
 ## 3 – ***COMPUTACIÓN BIOLOGICA***
 
 La **computación biológica** utiliza organismos vivos o biomoléculas como ADN, ARN o proteínas para realizar operaciones lógicas. Se apoya en procesos bioquímicos para resolver problemas de forma paralela.
+biologiacomputacional.JPG
 
-![Computación Cuántica](biologia computacional.JPG)
-biologia computacional.JPG
+![Computación neuromorfica](biologiacomputacional.JPG)
+
 ### Historia
 1️⃣9️⃣4️⃣0️⃣–1️⃣9️⃣6️⃣0️⃣ – Norbert Wiener desarrolla la cibernética y abre el camino.
 1️⃣9️⃣9️⃣4️⃣ – Leonard Adleman resuelve un problema matemático con ADN.
