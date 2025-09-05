@@ -126,7 +126,7 @@ La **computación biológica** utiliza organismos vivos o biomoléculas como ADN
 ## 4 – ***COMPUTACIÓN HETEROGÉNEA***
 
 La **computación heterogénea** combina diferentes tipos de procesadores (CPU, GPU, FPGA, ASIC) para aprovechar sus ventajas en tareas específicas.
-![Computación Cuántica](biologia computacional.JPG)
+![Computación Cuántica](Computación heterogenea.jpg)
 
 ### Historia
 1️⃣9️⃣7️⃣0️⃣s–1️⃣9️⃣8️⃣0️⃣s – Surgen coprocesadores matemáticos y DSPs.
